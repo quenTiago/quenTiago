@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/folerymvlr" target="blank"><img src="https://img.shields.io/twitter/follow/folerymvlr?logo=twitter&style=for-the-badge" alt="folerymvlr" /></a> </p>
 
-- 🌱 I’m currently learning **cybersecurity, web and network engineering, also practicing website development**
+- 🌱 I’m currently learning **cybersecurity, network engineering and web development**
 
 - 📫 discord : **folerym**
 
