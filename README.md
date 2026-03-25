@@ -12,7 +12,8 @@
 - 🤝 all my knowledge about pc's : [rympcparts](https://rympcparts.online)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<p align="left">8qmu on discord
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
