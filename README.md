@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
 <h3 align="center">A passionate cybersecurity enjoyer and young web dev</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quenTiago" alt="Tiago" /></a> </p>
-
 - 🌱 I’m currently learning **cybersecurity, network engineering and web development**
 
 <h3 align="left">Languages and Tools:</h3>
